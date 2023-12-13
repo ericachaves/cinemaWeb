@@ -6,6 +6,6 @@ CinemaWeb
 
 *Time de desenvolvedores: Erica Chaves
 
-*Objetivo do software: Sistema destinado à hospedagem de pets.
+*Objetivo do software: Sistema Virtual de Cinema.
 
-*Funcionalidades do sistema: O sistema deverá permitir o cadastro e consulta dos clientes.
+*Funcionalidades do sistema: O sistema deverá permitir o cadastro, consulta, exclusão, alteração e listagem de filmes; assim como as análises feitas dos mesmos.
